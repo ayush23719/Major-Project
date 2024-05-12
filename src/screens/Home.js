@@ -16,14 +16,14 @@ import {TouchableOpacity} from 'react-native-gesture-handler';
 const Home = ({navigation}) => {
   const [data, setData] = useState({
     pick: {
-      latitude: 30.7046,
-      longitude: 76.7179,
+      latitude: 28.667856,
+      longitude: 77.449791,
       latitudeDelta: 0.0922,
       longitudeDelta: 0.0421,
     },
     drop: {
-      latitude: 30.7333,
-      longitude: 76.7794,
+      latitude: 28.7041,
+      longitude: 77.1025,
       latitudeDelta: 0.0922,
       longitudeDelta: 0.0421,
     },
